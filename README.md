@@ -1,5 +1,7 @@
 🤖| Basic-Chatbot Project
 
+➡️ Basic-Chatbot 
+
 → A simple terminal chatbot using Python
 
 → Used: if-else, loops, input/output 
